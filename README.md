@@ -10,7 +10,7 @@ Sebuah tools untuk meretas password Mikrotik dan melakukan serangan DDOS
 $ sudo apt-get update
 $ sudo apt-get install -y git
 $ git clone https://github.com/Nabil-Syahnaufal/HackingMikrotik-DDOS
-$ cd MikrotikDown
+$ cd HackingMikrotik-DDOS
 $ python3 -m pip install -r requirements.txt
 $ python3 HackingTools.py
 ```
