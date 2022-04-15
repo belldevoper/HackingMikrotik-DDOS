@@ -1,9 +1,0 @@
-
-[03:17:11] Error Exploit Mikrotik Admin Panel
-[03:17:11] Error IP=? MACK=?
-[03:17:37] Error Exploit Mikrotik Admin Panel
-[03:17:37] Error IP=? MACK=?
-[03:20:42] Error Exploit Mikrotik Admin Panel
-[03:20:42] Error IP=? MACK=?
-[04:42:12] Error Getting Password Cards Page Login My Network
-[04:42:12] Error Url=goole.com Min Number=123456 Max Number=132456
