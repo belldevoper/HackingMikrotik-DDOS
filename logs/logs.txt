@@ -1,0 +1,7 @@
+
+[03:17:11] Error Exploit Mikrotik Admin Panel
+[03:17:11] Error IP=? MACK=?
+[03:17:37] Error Exploit Mikrotik Admin Panel
+[03:17:37] Error IP=? MACK=?
+[03:20:42] Error Exploit Mikrotik Admin Panel
+[03:20:42] Error IP=? MACK=?
