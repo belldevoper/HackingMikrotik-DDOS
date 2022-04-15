@@ -11,11 +11,20 @@ $ sudo apt-get update
 $ sudo apt-get install -y git
 
 $ git clone https://github.com/Nabil-Syahnaufal/HackingMikrotik-DDOS
+
 $ cd MikrotikDown
 
 $ python3 -m pip install -r requirements.txt
 
 $ python3 HackingTools.py
+
+
+
+
+
+
+
+
 
 Cara Install Di Termux : 
 
