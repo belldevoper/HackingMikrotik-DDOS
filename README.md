@@ -26,16 +26,13 @@ $ python3 HackingTools.py
 
 
 
-Cara Install Di Termux : 
+### _☣ Install MikrotikSploit on Termux_
 
+```BASH
 $ pkg update
-
 $ pkg install -y git
-
-$ git clone https://github.com/Nabil-Syahnaufal/HackingMikrotik-DDOS
-
-$ cd MikrotikDown
-
+$ git clone https://github.com/0x802/MikrotikSploit.git
+$ cd MikrotikSploit
 $ python3 -m pip install -r requirements.txt
-
-$ python3 HackingTools.py
+$ python3 MikrotikSploit.py
+```
