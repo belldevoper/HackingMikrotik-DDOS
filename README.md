@@ -24,5 +24,5 @@ $ pkg update
 $ pkg install -y git
 $ git clone https://github.com/Nabil-Syahnaufal/HackingMikrotik-DDOS
 $ python3 -m pip install -r requirements.txt
-$ python3 MikrotikDown.py
+$ python3 HackingTools.py
 ```
