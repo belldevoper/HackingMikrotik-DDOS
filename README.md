@@ -1,8 +1,8 @@
 # HackingMikrotik-DDOS
 Sebuah tools untuk meretas password Mikrotik dan melakukan serangan DDOS
 
+![asd](https://user-images.githubusercontent.com/97229948/164305860-b0dd8dd5-a17c-428d-bb52-c9d85c0d6b1e.png)
 
-![Mikrotik](https://user-images.githubusercontent.com/97229948/163633444-01077e34-95ac-4f0d-a05a-c9b52328309b.png)
 
 ### Install Di Linux
 
